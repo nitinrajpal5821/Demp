@@ -1,0 +1,12 @@
+Git and Github:
+
+GIT: version control
+Github: repository
+commit with unique hash code
+branches from master branch
+merging branch request to master
+fork: creating exact copy in different account
+pull request: created something on your copied repository and wants to add in real one use pull request
+clone: clone repository from github server and add it in personal system
+
+
